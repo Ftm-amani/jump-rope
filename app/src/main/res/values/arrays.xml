@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="spinner_item_title">
+        <item>test</item>
+        <item>2min</item>
+        <item>4min</item>
+        <item>6min</item>
+        <item>8min</item>
+        <item>10min</item>
+    </string-array>
+
+    <integer-array name="spinner_item_time">
+        <item>0</item>
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+    </integer-array>
+
+</resources>

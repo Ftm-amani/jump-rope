@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TanabZani</string>
+    <string name="channel_jump_finish">jump_finish</string>
+    <string name="channel_push_reminder">reminder</string>
+</resources>
